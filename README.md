@@ -7,9 +7,9 @@ Download the TowerRise2DDemo folder if you want to try out the unfinished produc
 - alt: block
 - space: dodge
 - r: to interact with npc, big white squares are npcs.
-- escape: menu and close menu.
+- escape: menu and close menu. \n
   When the game starts, follow the road to the left to get to the Tower, or interact with the big white square that is a npc and follow it for dialogue.
-- # Game breaking bugs:
+## Game breaking bugs:
   - As the game can't be closed in menu, game must be shut down manually.
   - Saving is not implamented.
   - Propably a lot more.
